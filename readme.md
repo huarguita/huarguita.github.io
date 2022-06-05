@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## ANTHONY
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,35 +8,34 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : MI Proyecto ANTHONY
 
-**Web:**   (url github.io)
+**Web:**   https://huarguita.github.io/
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Ana García Ruiz
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto es una pequeña practica a la hora de crear videojuegos de estética cómic. Aparte de practicar con la creación de historias fantásticas. Con este proyecto he podido dar un paso más adelante con la creación de historias (y también practicar un poco de programación) orientadas a el desarrollo de videojuegos.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Videojuego de estética medieval.
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px tamaño fijo.
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome.
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 7 MB. 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 05/06/2022
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** :
 
-- Github:
-- Twitter
-- Instagram
+- Github:https://github.com/huarguita/huarguita.github.io
+- Instagram: https://www.instagram.com/huarguita/
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
@@ -44,7 +43,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-
+Este sería el prologo del juego:
+Cuando La Patata Primigenia es robada de La Sagrada Casa a manos de Abel de Chipre, avatar de nuestro Dios Itachi, la furia de este hace que el Reino sucumba a una crisis alimentaria. Anthony, un joven mago protector del Reino, va en la búsqueda de su antiguo compañero para recuperar La Patata Primigenia y restaurar el favor con Itachi.
+En su búsqueda será acompañado por su esposo Jeraldo y el antiguo compañero de Abel, Roderick Paws. Aparte, los peligros que se encontrarán por el camino son inhóspitos, desde simples campesinos hambrientos, desertores, impíos, y la mismísima cólera de los Dioses.
 
 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
@@ -65,7 +66,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience). Mi primera ideo fue desarrollar un videojuego, dado a que me quiero dedicar al concept art para videojuegos. Por ello me sentí inspirada a hacer una estética más personal para practicar la creación de estéticas para videojuegos,
+
 
 
 
@@ -73,20 +75,19 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+Me inspiré en el Dishonored y en el Dragon age que son dos de mis videojuegos favoritos.
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque aunque sea pequeño, dado la falta de tiempo, da paso a una pequeña historia interesante y a un estilo visual único dibujado a mano ilustración por ilustración, incluso la tipografía. Dando un pequeño adelanto a un mundo de fantasía.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a jovenes/adultos que estén interesados en el mundo de los videojuegos.
 
 
 
@@ -94,25 +95,23 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Juego:
+    La parte interactiva se me hizo difífil, si el personaje se movia, no se animaba, si se animaba, no se movia, si el codigo iba, no se paraba a los 3 aciertos, etc... Pero como sé un poquito de programación pude dar unos apaños uniendo varias opciones de código y al final todo fue perfecto.
+- Video:
+    El video en primer lugar lo adjunté al proyecto a través del metodo de subirlo a Youtube y luego subir el link al hippani, pero luego cuando lo subí a Github el video en Youtube no se veía a si que tive que cambiar toda la parte del video y subirlo enlazado a un video mp4 de mi ordenador, creando los botones y la restructuración necesatia para ello.
+- Audio: el audio no paraba nunca, no sabía porque. resulta que por algún fallo aunque pusiese los comandos perstinentes nuca paraba. Al final combíe el nombre al archivo y al final si fue. 
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+El control de colisiones que ofrece el hippani es escaso por no decir nulo. igual que gran parte de los assets que se consideran esenciales para hacer juegos.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+La programación dentro de el programa me ha parecido un poco extraña, como una versión confusa de programar en Java. Aparte me parece poco intuitivo y al final cuando creas un proyectoun poco más grande acaba siendo un lio y pesando mucho. Aún así creo que lo que hemos aprendio con él puede ayudarnos a la creación de futuros proyectos más elaborados.
 
 
 
@@ -122,20 +121,20 @@ Este  proyecto es interesante porque ...
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: Catch (Avengers: Infinity War Soundtrack)  
+* Imágenes: Todos están dibujadas a mano por mí.
+* Tipografía: Todas están escritas a mano por mí.
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Adobe Photoshop CC 2020
+- Adobe Premiere CC 2020 14.9
+- Audacity 3.1.3
+- Procreate
 
 
 
@@ -143,4 +142,4 @@ Este  proyecto es interesante porque ...
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2022
